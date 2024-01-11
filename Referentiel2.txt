@@ -1,0 +1,209 @@
+Catalogue Noël
+
+1.0 Cadeaux
+
+- 1.1 Pour Elle
+
+  - 1.1.1 Bijoux
+
+    - 1.1.1.1 Colliers
+
+    - 1.1.1.2 Bracelets
+
+    - 1.1.1.3 Boucles d'oreilles
+
+    - 1.1.1.4 Bagues
+
+  - 1.1.2 Beauté
+
+    - 1.1.2.1 Maquillage
+
+    - 1.1.2.2 Parfums
+
+    - 1.1.2.3 Soins de la peau
+
+    - 1.1.2.4 Soins des cheveux
+
+  - 1.1.3 Mode
+
+    - 1.1.3.1 Vêtements
+
+    - 1.1.3.2 Chaussures
+
+    - 1.1.3.3 Sacs à main
+
+    - 1.1.3.4 Accessoires
+
+- 1.2 Pour Lui
+
+  - 1.2.1 Tech
+
+    - 1.2.1.1 Gadgets
+
+    - 1.2.1.2 Jeux vidéo
+
+    - 1.2.1.3 Audio
+
+    - 1.2.1.4 Informatique
+
+  - 1.2.2 Mode
+
+    - 1.2.2.1 Vêtements
+
+    - 1.2.2.2 Chaussures
+
+    - 1.2.2.3 Montres
+
+    - 1.2.2.4 Accessoires
+
+  - 1.2.3 Sports & Loisirs
+
+    - 1.2.3.1 Équipement sportif
+
+    - 1.2.3.2 Plein air
+
+    - 1.2.3.3 Fitness
+
+    - 1.2.3.4 Jeux de société
+
+- 1.3 Pour Enfants
+
+  - 1.3.1 Jouets
+
+    - 1.3.1.1 Jeux éducatifs
+
+    - 1.3.1.2 Poupées et peluches
+
+    - 1.3.1.3 Jeux de construction
+
+    - 1.3.1.4 Jeux de plein air
+
+  - 1.3.2 Vêtements
+
+    - 1.3.2.1 Filles
+
+    - 1.3.2.2 Garçons
+
+  - 1.3.3 Chaussures
+
+    - 1.3.3.1 Filles
+
+    - 1.3.3.2 Garçons
+
+  - 1.3.4 Livres pour enfants
+
+    - 1.3.4.1 Éducatifs
+
+    - 1.3.4.2 Romans jeunesse
+
+    - 1.3.4.3 BD
+
+    - 1.3.4.4 Albums illustrés
+
+2.0 Décoration de Noël
+
+- 2.1 Décorations d'Intérieur
+
+  - 2.1.1 Ornements
+
+    - 2.1.1.1 Boules
+
+    - 2.1.1.2 Guirlandes
+
+    - 2.1.1.3 Figurines
+
+    - 2.1.1.4 Bas de Noël
+
+- 2.1.2 Lumières
+
+    - 2.1.2.1 Guirlandes lumineuses
+
+    - 2.1.2.2 Bougies
+
+    - 2.1.2.3 Lanternes
+
+    - 2.1.2.4 Lampes décoratives
+
+- 2.1.3 Décoration de table
+
+    - 2.1.3.1 Nappes de Noël
+
+    - 2.1.3.2 Vaisselle de Noël
+
+    - 2.1.3.3 Centres de table
+
+    - 2.1.3.4 Serviettes de Noël
+
+- 2.1.4 Décoration de la pièce
+
+    - 2.1.4.1 Rideaux de Noël
+
+    - 2.1.4.2 Coussins de Noël
+
+    - 2.1.4.3 Tapis de Noël
+
+    - 2.1.4.4 Couvertures de Noël
+
+- 2.2 Décorations d'Extérieur
+
+  - 2.2.1 Lumières
+
+    - 2.2.1.1 Guirlandes lumineuses
+
+    - 2.2.1.2 Lanternes
+
+    - 2.2.1.3 Projecteurs de Noël
+
+    - 2.2.1.4 Lampes décoratives
+
+  - 2.2.2 Décorations du jardin
+
+    - 2.2.2.1 Statues de Noël
+
+    - 2.2.2.2 Bannières de Noël
+
+    - 2.2.2.3 Guirlandes extérieures
+
+    - 2.2.2.4 Ornements pour arbres de Noël extérieurs
+
+  - 2.2.3 Décoration de la porte d'entrée
+
+    - 2.2.3.1 Couronnes de Noël
+
+    - 2.2.3.2 Tapis de bienvenue de Noël
+
+    - 2.2.3.3 Bannières de porte de Noël
+
+    - 2.2.3.4 Cloches de porte de Noël
+
+3.0 Gastronomie de Noël
+
+- 3.1 Pâtisserie
+
+  - 3.1.1 Gâteaux de Noël
+
+  - 3.1.2 Biscuits de Noël
+
+  - 3.1.3 Bonbons de Noël
+
+  - 3.1.4 Kit pâtisserie de Noël
+
+- 3.2 Boissons
+
+  - 3.2.1 Vin de Noël
+
+  - 3.2.2 Chocolat chaud de Noël
+
+  - 3.2.3 Café de Noël
+
+  - 3.2.4 Thé de Noël
+
+- 3.3 Paniers Gourmet
+
+  - 3.3.1 Paniers de chocolat
+
+  - 3.3.2 Paniers de fruits et noix
+
+  - 3.3.3 Paniers de charcuterie
+
+  - 3.3.4 Paniers de fromages

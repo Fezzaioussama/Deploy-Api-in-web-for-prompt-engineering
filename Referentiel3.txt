@@ -1,0 +1,205 @@
+Catalogue Été
+
+1.0 Prêt-à-porter
+
+- 1.1 Femmes
+
+  - 1.1.1 Robes
+
+    - 1.1.1.1 Robes de plage
+
+    - 1.1.1.2 Robes légères
+
+    - 1.1.1.3 Robes à bretelles
+
+    - 1.1.1.4 Robes maxi
+
+  - 1.1.2 Tops
+
+    - 1.1.2.1 T-shirts
+
+    - 1.1.2.2 Débardeurs
+
+    - 1.1.2.3 Chemisiers
+
+    - 1.1.2.4 Tuniques
+
+  - 1.1.3 Shorts & Jupes
+
+    - 1.1.3.1 Shorts en jean
+
+    - 1.1.3.2 Shorts de sport
+
+    - 1.1.3.3 Jupes courtes
+
+    - 1.1.3.4 Jupes longues
+
+  - 1.1.4 Maillots de bain
+
+    - 1.1.4.1 Bikinis
+
+    - 1.1.4.2 Maillots une pièce
+
+    - 1.1.4.3 Tankinis
+
+    - 1.1.4.4 Maillots de bain taille plus
+
+  - 1.1.5 Accessoires d'été
+
+    - 1.1.5.1 Chapeaux
+
+    - 1.1.5.2 Lunettes de soleil
+
+    - 1.1.5.3 Sac de plage
+
+    - 1.1.5.4 Paréos
+
+- 1.2 Hommes
+
+  - 1.2.1 Shorts
+
+    - 1.2.1.1 Shorts en jean
+
+    - 1.2.1.2 Shorts de sport
+
+    - 1.2.1.3 Shorts de bain
+
+    - 1.2.1.4 Bermudas
+
+  - 1.2.2 T-Shirts & Polos
+
+    - 1.2.2.1 T-Shirts à manches courtes
+
+    - 1.2.2.2 T-Shirts à manches longues
+
+    - 1.2.2.3 Polos
+
+    - 1.2.2.4 Débardeurs
+
+  - 1.2.3 Maillots de bain
+
+    - 1.2.3.1 Shorts de bain
+
+    - 1.2.3.2 Slips de bain
+
+    - 1.2.3.3 Boxers de bain
+
+    - 1.2.3.4 Maillots de bain taille plus
+
+  - 1.2.4 Accessoires d'été
+
+    - 1.2.4.1 Chapeaux
+
+    - 1.2.4.2 Lunettes de soleil
+
+    - 1.2.4.3 Sacs de plage
+
+    - 1.2.4.4 Serviettes de plage
+
+- 1.3 Enfants
+
+  - 1.3.1 Filles
+
+    - 1.3.1.1 Robes
+
+    - 1.3.1.2 Tops
+
+    - 1.3.1.3 Shorts
+
+    - 1.3.1.4 Maillots de de bain
+
+      - 1.3.1.4.1 Bikinis
+
+      - 1.3.1.4.2 Maillots une pièce
+
+      - 1.3.1.4.3 Tankinis
+
+      - 1.3.1.4.4 Maillots de bain pour la natation
+
+    - 1.3.1.5 Accessoires d'été
+
+      - 1.3.1.5.1 Chapeaux
+
+      - 1.3.1.5.2 Lunettes de soleil
+
+      - 1.3.1.5.3 Sacs de plage
+
+      - 1.3.1.5.4 Serviettes de plage
+
+  - 1.3.2 Garçons
+
+    - 1.3.2.1 T-Shirts & Polos
+
+      - 1.3.2.1.1 T-Shirts à manches courtes
+
+      - 1.3.2.1.2 T-Shirts à manches longues
+
+      - 1.3.2.1.3 Polos
+
+      - 1.3.2.1.4 Débardeurs
+
+    - 1.3.2.2 Shorts
+
+      - 1.3.2.2.1 Shorts en jean
+
+      - 1.3.2.2.2 Shorts de sport
+
+      - 1.3.2.2.3 Bermudas
+
+      - 1.3.2.2.4 Shorts de bain
+
+    - 1.3.2.3 Maillots de bain
+
+      - 1.3.2.3.1 Shorts de bain
+
+      - 1.3.2.3.2 Slips de bain
+
+      - 1.3.2.3.3 Boxers de bain
+
+      - 1.3.2.3.4 Maillots de bain pour la natation
+
+    - 1.3.2.4 Accessoires d'été
+
+      - 1.3.2.4.1 Chapeaux
+
+      - 1.3.2.4.2 Lunettes de soleil
+
+      - 1.3.2.4.3 Sacs de plage
+
+      - 1.3.2.4.4 Serviettes de plage
+
+2.0 Maison & Déco
+
+- 2.1 Mobilier de jardin
+
+  - 2.1.1 Chaises
+
+    - 2.1.1.1 Chaises longues
+
+    - 2.1.1.2 Chaises pliantes
+
+    - 2.1.1.3 Chaises de jardin
+
+    - 2.1.1.4 Chaises de plage
+
+  - 2.1.2 Tables
+
+    - 2.1.2.1 Tables de pique-nique
+
+    - 2.1.2.2 Tables de jardin
+
+    - 2.1.2.3 Tables pliantes
+
+    - 2.1.2.4 Tables de café d'extérieur
+
+  - 2.1.3 Parasols
+
+    - 2.1.3.1 Parasols de jardin
+
+    - 2.1.3.2 Parasols de plage
+
+    - 2.1.3.3 Parasols de table
+
+    - 2.1.3.4 Parasols déportés
+
+- 2.2 Barbecue & Accessoires

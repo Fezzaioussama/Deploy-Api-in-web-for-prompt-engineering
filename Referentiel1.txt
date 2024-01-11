@@ -1,0 +1,203 @@
+Catalogue Enfants
+
+1.0 Vêtements
+
+- 1.1 Filles
+
+  - 1.1.1 Robes
+
+    - 1.1.1.1 Robes de fête
+
+    - 1.1.1.2 Robes casual
+
+    - 1.1.1.3 Robes de nuit
+
+  - 1.1.2 Tops
+
+    - 1.1.2.1 T-shirts
+
+    - 1.1.2.2 Blouses
+
+    - 1.1.2.3 Pulls
+
+  - 1.1.3 Pantalons
+
+    - 1.1.3.1 Jeans
+
+    - 1.1.3.2 Leggings
+
+    - 1.1.3.3 Shorts
+
+  - 1.1.4 Chaussures
+
+    - 1.1.4.1 Baskets
+
+    - 1.1.4.2 Sandales
+
+    - 1.1.4.3 Bottes
+
+  - 1.1.5 Accessoires
+
+    - 1.1.5.1 Chapeaux
+
+    - 1.1.5.2 Écharpes
+
+    - 1.1.5.3 Bijoux pour enfants
+
+- 1.2 Garçons
+
+  - 1.2.1 Shorts
+
+    - 1.2.1.1 Shorts de sport
+
+    - 1.2.1.2 Shorts en jean
+
+    - 1.2.1.3 Bermudas
+
+  - 1.2.2 T-Shirts
+
+    - 1.2.2.1 T-shirts à manches courtes
+
+    - 1.2.2.2 T-shirts à manches longues
+
+    - 1.2.2.3 Polos
+
+  - 1.2.3 Pantalons
+
+    - 1.2.3.1 Jeans
+
+    - 1.2.3.2 Pantalons de sport
+
+    - 1.2.3.3 Pantalons décontractés
+
+  - 1.2.4 Chaussures
+
+    - 1.2.4.1 Baskets
+
+    - 1.2.4.2 Sandales
+
+    - 1.2.4.3 Bottes
+
+  - 1.2.5 Accessoires
+
+    - 1.2.5.1 Chapeaux
+
+    - 1.2.5.2 Écharpes
+
+    - 1.2.5.3 Ceintures
+
+2.0 Jouets
+
+- 2.1 Par âge
+
+  - 2.1.1 0-2 ans
+
+    - 2.1.1.1 Jouets à tirer
+
+    - 2.1.1.2 Jouets à empiler
+
+    - 2.1.1.3 Jouets musicaux
+
+  - 2.1.2 3-5 ans
+
+    - 2.1.2.1 Jeux d'apprentissage
+
+    - 2.1.2.2 Puzzles
+
+    - 2.1.2.3 Jouets créatifs
+
+  - 2.1.3 6-8 ans
+
+    - 2.1.3.1 Jeux de société
+
+    - 2.1.3.2 Jouets scientifiques
+
+    - 2.1.3.3 Jouets de construction
+
+    - 2.1.4 9-12 ans
+
+    - 2.1.4.1 Kits de science
+
+    - 2.1.4.2 Jouets électroniques
+
+    - 2.1.4.3 Jeux de stratégie
+
+2.2 Par type
+
+2.2.1 Éducatifs
+
+2.2.1.1 Livres interactifs
+
+2.2.1.2 Kits d'apprentissage des langues
+
+2.2.1.3 Jeux mathématiques
+
+2.2.2 Action
+
+2.2.2.1 Figurines
+
+2.2.2.2 Jouets à lancer
+
+2.2.2.3 Voitures télécommandées
+
+2.2.3 Créativité
+
+2.2.3.1 Kits d'art
+
+2.2.3.2 Perles et bijoux
+
+2.2.3.3 Jouets de musique
+
+3.0 Fournitures Scolaires
+
+3.1 Par âge
+
+3.1.1 Maternelle
+
+3.1.1.1 Crayons et feutres
+
+3.1.1.2 Ciseaux de sécurité
+
+3.1.1.3 Cahiers d'activités
+
+3.1.2 École primaire
+
+3.1.2.1 Fournitures d'écriture
+
+3.1.2.2 Calculatrices simples
+
+3.1.2.3 Cahiers et dossiers
+
+3.1.3 Collège
+
+3.1.3.1 Calculatrices scientifiques
+
+3.1.3.2 Fournitures d'art
+
+3.1.3.3 Organisateurs et agendas
+
+3.2 Par type
+
+3.2.1 Écriture
+
+3.2.1.1 Crayons
+
+3.2.1.2 Stylos
+
+3.2.1.3 Marqueurs
+
+3.2.2 Organisation
+
+3.2.2.1 Classeurs
+
+3.2.2.2 Étiquettes
+
+3.2.2.3 Sacs à dos
+
+3.2.3 Art et création
+
+3.2.3.1 Peinture
+
+3.2.3.2 Papier de construction
+
+3.2.3.3 Colle et ciseaux
