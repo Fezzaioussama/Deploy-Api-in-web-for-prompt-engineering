@@ -58,6 +58,6 @@ pip install streamlit requests
 ```
 ## Workflow
 
-    Enter catalog data for Été, Enfants, and Noël in the provided text areas.
-    Click the "Generate Unified Categories" button to initiate the generation process.
-    View the unified categories displayed on the Streamlit interface.
+### Enter catalog data for Été, Enfants, and Noël in the provided text areas.
+### Click the "Generate Unified Categories" button to initiate the generation process.
+### View the unified categories displayed on the Streamlit interface.
