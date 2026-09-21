@@ -2,8 +2,7 @@ import os
 from flask import Flask, request, jsonify
 from openai import OpenAI
 
-#client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
-client = OpenAI(api_key="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")
+client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 app = Flask(__name__)
 # TODO add swagger
 
