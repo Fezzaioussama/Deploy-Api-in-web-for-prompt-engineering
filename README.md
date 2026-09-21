@@ -10,21 +10,19 @@ inconsistent.
 This sends all three to an LLM and asks for a single unified *référentiel*.
 Flask does the model call, Streamlit provides the interface.
 
-> ### ⚠️ Security notice
+> ### ⚠️ Security notice — an exposed key must still be revoked
 >
-> **`app.py` contains a hardcoded OpenAI API key.** It has been in this public
-> repository's history since January 2024 and must be treated as compromised.
+> `app.py` previously hardcoded an OpenAI API key. It has been **removed from
+> the current code** and replaced with `os.environ.get("OPENAI_API_KEY")`.
 >
-> **Revoke it** at <https://platform.openai.com/api-keys>, then switch to the
-> environment variable — the correct line is already in the file, commented out
-> one line above:
+> **That removal does not make the key safe.** It was committed on 2024-01-11 to
+> this public repository and remains in the git history, where it is still
+> readable by anyone. Public GitHub commits are continuously scraped by bots
+> hunting for credentials, so it must be assumed compromised.
 >
-> ```python
-> client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
-> ```
->
-> Deleting the key from `app.py` is not enough on its own; it remains in the git
-> history until the history is rewritten.
+> **Revoke it** at <https://platform.openai.com/api-keys>. Revocation is the only
+> action that actually neutralises an exposed key — rewriting history afterwards
+> is optional cleanup, not a fix.
 
 ## Setup
 
